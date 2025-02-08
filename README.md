@@ -24,6 +24,10 @@ Spam-Classification/
 └── README.md            # Project documentation  
 ```
 
+## Dataset
+The dataset used in this project is available on Kaggle:  
+[Spam Text Message Classification Dataset](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
+
 ---
 
 ## 🛠 Technologies Used  
