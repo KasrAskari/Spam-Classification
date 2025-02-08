@@ -36,7 +36,10 @@ Spam-Classification/
 ---
 
 ## 📊 Results  
-The model achieves **high accuracy** in spam detection and is evaluated using key metrics like **accuracy**, **precision**, and **F1-score**.  
+The model's performance metrics are as follows:
+- **Accuracy**: Computed using `accuracy_score()`
+- **Precision**: Computed using `precision_score()`
+- **Recall**: Computed using `recall_score()`
 
 ---
 
