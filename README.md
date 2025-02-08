@@ -13,18 +13,7 @@ This project is a **spam classification model** designed to identify unwanted me
 
 ---
 
-## 📁 Project Structure  
-```
-Spam-Classification/  
-├── data/                 # Dataset containing messages  
-├── preprocessing.py      # Text cleaning and preprocessing  
-├── model.py             # Model training and evaluation  
-├── predict.py           # Predicts if a message is spam or not  
-├── requirements.txt     # Required dependencies  
-└── README.md            # Project documentation  
-```
-
-## Dataset
+## 📁 Dataset
 The dataset used in this project is available on Kaggle:  
 [Spam Text Message Classification Dataset](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
 
