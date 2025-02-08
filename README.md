@@ -14,8 +14,7 @@ This project is a **spam classification model** designed to identify unwanted me
 ---
 
 ## 📁 Dataset
-The dataset used in this project is available on Kaggle:  
-[Spam Text Message Classification](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
+The dataset used in this project is available on Kaggle: [Spam Text Message Classification](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
 
 ---
 
