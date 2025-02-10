@@ -34,9 +34,9 @@ The project code is available on GitHub: [Spam Classification with LSTM](https:/
 
 ## 📊 Results  
 The model's performance metrics are as follows:
-- **Accuracy**: 0.9874
-- **Precision**: 0.9708
-- **Recall**: 0.9301
+- **Accuracy** ~ 98.7%
+- **Precision** ~ 97.1%
+- **Recall** ~ 93%
 
 ---
 
