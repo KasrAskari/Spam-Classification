@@ -17,11 +17,6 @@ The dataset used in this project is available on Kaggle: [Spam Text Message Clas
 
 ---
 
-## 📂 Project Link  
-The project code is available on GitHub: [Spam Classification with LSTM](https://github.com/KasrAskari/Spam-Classification/blob/main/spam-classification-LSTM.ipynb)
-
----
-
 ## 🛠 Technologies Used  
 - Python  
 - TensorFlow/Keras  
