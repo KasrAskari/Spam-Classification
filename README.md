@@ -6,10 +6,11 @@ This project is a **spam classification model** built using a **Long Short-Term 
 ---
 
 ## 🚀 Features  
-✔ **Text Preprocessing:** Cleaning and preparing text data  
-✔ **LSTM Model Training:** Utilizing an LSTM network for sequence modeling  
-✔ **Feature Extraction:** Converting text to numerical features using **word embeddings**  
-✔ **Model Evaluation:** Measuring accuracy, precision and recall.
+### ✔  ***Text Preprocessing:*** Cleaning and preparing text data.
+### ✔  ***LSTM Model Training:*** Utilizing an LSTM network for sequence modeling. 
+### ✔ ***Feature Extraction:*** Converting text to numerical features using word embeddings.
+### ✔ ***Model Evaluation:*** Measuring accuracy, precision and recall.
+
 ---
 
 ## 📁 Dataset  
